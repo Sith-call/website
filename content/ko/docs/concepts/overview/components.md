@@ -90,7 +90,7 @@ kube-controller-manager와 마찬가지로 cloud-controller-manager는 논리적
 
 {{< glossary_definition term_id="container-runtime" length="all" >}}
 
-## 애드온
+## 애드온 (보조 기능)
 
 애드온은 쿠버네티스 리소스({{< glossary_tooltip text="데몬셋" term_id="daemonset" >}},
 {{< glossary_tooltip text="디플로이먼트" term_id="deployment" >}} 등)를
